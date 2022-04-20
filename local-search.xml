@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>数据分析之路</title>
+    <link href="/2022/03/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%80%9D%E7%BB%B4/"/>
+    <url>/2022/03/10/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%80%9D%E7%BB%B4/</url>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本文参考秦路的七周成为数据分析师，并对其进行总结、拓展，希望能帮助建立基础的数据分析思维。</p><h2 id="第一周：数据分析思维"><a href="#第一周：数据分析思维" class="headerlink" title="第一周：数据分析思维"></a>第一周：数据分析思维</h2><h2 id="第二周：业务"><a href="#第二周：业务" class="headerlink" title="第二周：业务"></a>第二周：业务</h2><h2 id="第三周：Excel"><a href="#第三周：Excel" class="headerlink" title="第三周：Excel"></a>第三周：Excel</h2><h2 id="第四周：数据可视化"><a href="#第四周：数据可视化" class="headerlink" title="第四周：数据可视化"></a>第四周：数据可视化</h2><h2 id="第五周：Mysql"><a href="#第五周：Mysql" class="headerlink" title="第五周：Mysql"></a>第五周：Mysql</h2><h2 id="第六周：统计学"><a href="#第六周：统计学" class="headerlink" title="第六周：统计学"></a>第六周：统计学</h2><h3 id="分位数"><a href="#分位数" class="headerlink" title="分位数"></a>分位数</h3><h4 id="四分位数"><a href="#四分位数" class="headerlink" title="四分位数"></a>四分位数</h4><p>第一四分位数(Q1)，又称“较小四分位数”，等于该样本中所有数值由小到大排列后第25%的数字。<br>第二四分位数(Q2)，又称“中位数”，等于该样本中所有数值由小到大排列后第50%的数字。<br>第三四分位数(Q3)，又称“较大四分位数”，等于该样本中所有数值由小到大排列后第75%的数字。</p><h3 id="标准差"><a href="#标准差" class="headerlink" title="标准差"></a>标准差</h3><h3 id="权重统计"><a href="#权重统计" class="headerlink" title="权重统计"></a>权重统计</h3><h3 id="切比雪夫"><a href="#切比雪夫" class="headerlink" title="切比雪夫"></a>切比雪夫</h3><h3 id="箱线图"><a href="#箱线图" class="headerlink" title="箱线图"></a>箱线图</h3><h3 id="直方图"><a href="#直方图" class="headerlink" title="直方图"></a>直方图</h3><h3 id="概率"><a href="#概率" class="headerlink" title="概率"></a>概率</h3><h3 id="贝叶斯"><a href="#贝叶斯" class="headerlink" title="贝叶斯"></a>贝叶斯</h3><h3 id="二项分布"><a href="#二项分布" class="headerlink" title="二项分布"></a>二项分布</h3><h3 id="泊松分布"><a href="#泊松分布" class="headerlink" title="泊松分布"></a>泊松分布</h3><h3 id="正态分布"><a href="#正态分布" class="headerlink" title="正态分布"></a>正态分布</h3><h3 id="假设检验"><a href="#假设检验" class="headerlink" title="假设检验"></a>假设检验</h3><h2 id="第七周：Python"><a href="#第七周：Python" class="headerlink" title="第七周：Python"></a>第七周：Python</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>数据分析</category>
+      
+      <category>业务</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>拓展</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2022/03/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2022/03/09/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>

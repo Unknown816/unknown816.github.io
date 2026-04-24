@@ -1,0 +1,37 @@
+.post-image {
+  display: block;
+  margin: 28px auto;
+  max-width: min(100%, 720px);
+  max-height: 60vh;
+  height: auto;
+
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+
+  transition: all 0.3s ease;
+  cursor: zoom-in;
+}
+
+/* hover 微动效（仅桌面更明显） */
+.post-image:hover {
+  transform: translateY(-2px) scale(1.01);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+}
+
+/* 图片说明（如果你用 figure） */
+.post-image-caption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: -12px;
+  margin-bottom: 20px;
+}
+
+/* 移动端优化 */
+@media (max-width: 768px) {
+  .post-image {
+    border-radius: 8px;
+    margin: 20px auto;
+    max-height: 50vh;
+  }
+}

@@ -26,6 +26,10 @@ custom_js:
   - /js/DynamicFog.js
   - /js/GiscusFix.js
 
+# 自定义css
+custom_css:
+  - /css/custom.css
+
 # 图片懒加载
 lazyload:
   enable: true
